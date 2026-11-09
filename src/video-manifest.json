@@ -1,0 +1,22 @@
+{
+  "private": {
+    "src": "/videos/private-tour.mp4",
+    "poster": "/videos/private-tour-poster.jpg",
+    "type": "video/mp4",
+    "duration": 49.1,
+    "width": 1280,
+    "height": 720,
+    "bytes": 1340581,
+    "original": "private/Villa Bukit Bunga 1_1.mp4"
+  },
+  "yard": {
+    "src": "/videos/halaman-villa.mp4",
+    "poster": "/videos/halaman-villa-poster.jpg",
+    "type": "video/mp4",
+    "duration": 140.261,
+    "width": 1280,
+    "height": 720,
+    "bytes": 47724032,
+    "original": "villa_yard/VID_20261025_164954.mp4"
+  }
+}

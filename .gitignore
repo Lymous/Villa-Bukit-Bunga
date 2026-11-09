@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.vercel/
+test-results/
+playwright-report/
+.DS_Store
+*.pdf:Zone.Identifier
+.env
+.env.*
+
+# Original media stays locally; the website uses public/images WebP derivatives.
+/big_room/
+/dining_room/
+/duluxe/
+/hall/
+/pool/
+/private/
+/standart/
+/villa_yard/
+/Villa Flyer.pdf
+/public/videos/*.working.mp4
+/src/video-manifest.json.tmp

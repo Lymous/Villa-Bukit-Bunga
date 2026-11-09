@@ -1,0 +1,353 @@
+{
+  "standart": [
+    {
+      "src": "/images/standart-01.webp",
+      "thumb": "/images/standart-01-sm.webp",
+      "original": "IMG-20201201-WA0001.jpg"
+    },
+    {
+      "src": "/images/standart-02.webp",
+      "thumb": "/images/standart-02-sm.webp",
+      "original": "MVIMG_20261025_162425.jpg"
+    },
+    {
+      "src": "/images/standart-03.webp",
+      "thumb": "/images/standart-03-sm.webp",
+      "original": "MVIMG_20261025_162439.jpg"
+    },
+    {
+      "src": "/images/standart-04.webp",
+      "thumb": "/images/standart-04-sm.webp",
+      "original": "MVIMG_20261025_162501.jpg"
+    },
+    {
+      "src": "/images/standart-05.webp",
+      "thumb": "/images/standart-05-sm.webp",
+      "original": "MVIMG_20261025_162717.jpg"
+    },
+    {
+      "src": "/images/standart-06.webp",
+      "thumb": "/images/standart-06-sm.webp",
+      "original": "MVIMG_20261025_162732.jpg"
+    },
+    {
+      "src": "/images/standart-07.webp",
+      "thumb": "/images/standart-07-sm.webp",
+      "original": "MVIMG_20261025_162832.jpg"
+    }
+  ],
+  "duluxe": [
+    {
+      "src": "/images/duluxe-01.webp",
+      "thumb": "/images/duluxe-01-sm.webp",
+      "original": "IMG-20201201-WA0004.jpg"
+    },
+    {
+      "src": "/images/duluxe-02.webp",
+      "thumb": "/images/duluxe-02-sm.webp",
+      "original": "IMG-20201201-WA0005.jpg"
+    },
+    {
+      "src": "/images/duluxe-03.webp",
+      "thumb": "/images/duluxe-03-sm.webp",
+      "original": "IMG-20211121-WA0015.jpg"
+    },
+    {
+      "src": "/images/duluxe-04.webp",
+      "thumb": "/images/duluxe-04-sm.webp",
+      "original": "IMG-20220518-WA0006.jpg"
+    },
+    {
+      "src": "/images/duluxe-05.webp",
+      "thumb": "/images/duluxe-05-sm.webp",
+      "original": "IMG-20220810-WA0046.jpg"
+    },
+    {
+      "src": "/images/duluxe-06.webp",
+      "thumb": "/images/duluxe-06-sm.webp",
+      "original": "MVIMG_20261025_161559.jpg"
+    },
+    {
+      "src": "/images/duluxe-07.webp",
+      "thumb": "/images/duluxe-07-sm.webp",
+      "original": "MVIMG_20261025_161621.jpg"
+    },
+    {
+      "src": "/images/duluxe-08.webp",
+      "thumb": "/images/duluxe-08-sm.webp",
+      "original": "MVIMG_20261025_161638.jpg"
+    },
+    {
+      "src": "/images/duluxe-09.webp",
+      "thumb": "/images/duluxe-09-sm.webp",
+      "original": "MVIMG_20261025_161706.jpg"
+    },
+    {
+      "src": "/images/duluxe-10.webp",
+      "thumb": "/images/duluxe-10-sm.webp",
+      "original": "MVIMG_20261025_161832.jpg"
+    },
+    {
+      "src": "/images/duluxe-11.webp",
+      "thumb": "/images/duluxe-11-sm.webp",
+      "original": "MVIMG_20261025_161941.jpg"
+    },
+    {
+      "src": "/images/duluxe-12.webp",
+      "thumb": "/images/duluxe-12-sm.webp",
+      "original": "MVIMG_20261025_162007.jpg"
+    },
+    {
+      "src": "/images/duluxe-13.webp",
+      "thumb": "/images/duluxe-13-sm.webp",
+      "original": "MVIMG_20261025_162014.jpg"
+    },
+    {
+      "src": "/images/duluxe-14.webp",
+      "thumb": "/images/duluxe-14-sm.webp",
+      "original": "MVIMG_20261025_164620.jpg"
+    },
+    {
+      "src": "/images/duluxe-15.webp",
+      "thumb": "/images/duluxe-15-sm.webp",
+      "original": "MVIMG_20261025_164639.jpg"
+    },
+    {
+      "src": "/images/duluxe-16.webp",
+      "thumb": "/images/duluxe-16-sm.webp",
+      "original": "MVIMG_20261025_164733.jpg"
+    },
+    {
+      "src": "/images/duluxe-17.webp",
+      "thumb": "/images/duluxe-17-sm.webp",
+      "original": "MVIMG_20261025_170407.jpg"
+    },
+    {
+      "src": "/images/duluxe-18.webp",
+      "thumb": "/images/duluxe-18-sm.webp",
+      "original": "Screenshot_20250101_073552_Maps.jpg"
+    },
+    {
+      "src": "/images/duluxe-19.webp",
+      "thumb": "/images/duluxe-19-sm.webp",
+      "original": "Screenshot_20250101_073558_Maps.jpg"
+    },
+    {
+      "src": "/images/duluxe-20.webp",
+      "thumb": "/images/duluxe-20-sm.webp",
+      "original": "Screenshot_20250101_073608_Maps.jpg"
+    },
+    {
+      "src": "/images/duluxe-21.webp",
+      "thumb": "/images/duluxe-21-sm.webp",
+      "original": "Screenshot_20250101_073613_Maps.jpg"
+    },
+    {
+      "src": "/images/duluxe-22.webp",
+      "thumb": "/images/duluxe-22-sm.webp",
+      "original": "Screenshot_20250101_073623_Maps.jpg"
+    }
+  ],
+  "private": [
+    {
+      "src": "/images/private-01.webp",
+      "thumb": "/images/private-01-sm.webp",
+      "original": "20241116_095113.jpg"
+    },
+    {
+      "src": "/images/private-02.webp",
+      "thumb": "/images/private-02-sm.webp",
+      "original": "20241228_160057.jpg"
+    },
+    {
+      "src": "/images/private-03.webp",
+      "thumb": "/images/private-03-sm.webp",
+      "original": "20241228_160154.jpg"
+    },
+    {
+      "src": "/images/private-04.webp",
+      "thumb": "/images/private-04-sm.webp",
+      "original": "20241228_160245.jpg"
+    },
+    {
+      "src": "/images/private-05.webp",
+      "thumb": "/images/private-05-sm.webp",
+      "original": "20241228_160412.jpg"
+    },
+    {
+      "src": "/images/private-06.webp",
+      "thumb": "/images/private-06-sm.webp",
+      "original": "MVIMG_20261025_170010.jpg"
+    },
+    {
+      "src": "/images/private-07.webp",
+      "thumb": "/images/private-07-sm.webp",
+      "original": "MVIMG_20261025_170019.jpg"
+    },
+    {
+      "src": "/images/private-08.webp",
+      "thumb": "/images/private-08-sm.webp",
+      "original": "MVIMG_20261025_170035.jpg"
+    }
+  ],
+  "big_room": [
+    {
+      "src": "/images/big_room-01.webp",
+      "thumb": "/images/big_room-01-sm.webp",
+      "original": "IMG-20220913-WA0031.jpg"
+    },
+    {
+      "src": "/images/big_room-02.webp",
+      "thumb": "/images/big_room-02-sm.webp",
+      "original": "IMG-20220913-WA0038.jpg"
+    },
+    {
+      "src": "/images/big_room-03.webp",
+      "thumb": "/images/big_room-03-sm.webp",
+      "original": "IMG-20220913-WA0039.jpg"
+    },
+    {
+      "src": "/images/big_room-04.webp",
+      "thumb": "/images/big_room-04-sm.webp",
+      "original": "MVIMG_20261025_161250.jpg"
+    },
+    {
+      "src": "/images/big_room-05.webp",
+      "thumb": "/images/big_room-05-sm.webp",
+      "original": "MVIMG_20261025_161308.jpg"
+    },
+    {
+      "src": "/images/big_room-06.webp",
+      "thumb": "/images/big_room-06-sm.webp",
+      "original": "MVIMG_20261025_161324.jpg"
+    },
+    {
+      "src": "/images/big_room-07.webp",
+      "thumb": "/images/big_room-07-sm.webp",
+      "original": "MVIMG_20261025_161402.jpg"
+    },
+    {
+      "src": "/images/big_room-08.webp",
+      "thumb": "/images/big_room-08-sm.webp",
+      "original": "MVIMG_20261025_164600.jpg"
+    }
+  ],
+  "pool": [
+    {
+      "src": "/images/pool-01.webp",
+      "thumb": "/images/pool-01-sm.webp",
+      "original": "20240515_071954.jpg"
+    },
+    {
+      "src": "/images/pool-02.webp",
+      "thumb": "/images/pool-02-sm.webp",
+      "original": "20241020_055633.jpg"
+    },
+    {
+      "src": "/images/pool-03.webp",
+      "thumb": "/images/pool-03-sm.webp",
+      "original": "IMG-20201201-WA0006.jpg"
+    }
+  ],
+  "hall": [
+    {
+      "src": "/images/hall-01.webp",
+      "thumb": "/images/hall-01-sm.webp",
+      "original": "MVIMG_20261025_163807.jpg"
+    },
+    {
+      "src": "/images/hall-02.webp",
+      "thumb": "/images/hall-02-sm.webp",
+      "original": "MVIMG_20261025_163829.jpg"
+    },
+    {
+      "src": "/images/hall-03.webp",
+      "thumb": "/images/hall-03-sm.webp",
+      "original": "WhatsApp Image 2026-10-24 at 18.49.13.jpeg"
+    }
+  ],
+  "dining_room": [
+    {
+      "src": "/images/dining_room-01.webp",
+      "thumb": "/images/dining_room-01-sm.webp",
+      "original": "IMG-20201201-WA0007.jpg"
+    },
+    {
+      "src": "/images/dining_room-02.webp",
+      "thumb": "/images/dining_room-02-sm.webp",
+      "original": "MVIMG_20261025_163608.jpg"
+    },
+    {
+      "src": "/images/dining_room-03.webp",
+      "thumb": "/images/dining_room-03-sm.webp",
+      "original": "MVIMG_20261025_163629.jpg"
+    }
+  ],
+  "villa_yard": [
+    {
+      "src": "/images/villa_yard-01.webp",
+      "thumb": "/images/villa_yard-01-sm.webp",
+      "original": "MVIMG_20261025_162959.jpg"
+    },
+    {
+      "src": "/images/villa_yard-02.webp",
+      "thumb": "/images/villa_yard-02-sm.webp",
+      "original": "MVIMG_20261025_163016.jpg"
+    },
+    {
+      "src": "/images/villa_yard-03.webp",
+      "thumb": "/images/villa_yard-03-sm.webp",
+      "original": "MVIMG_20261025_163031.jpg"
+    },
+    {
+      "src": "/images/villa_yard-04.webp",
+      "thumb": "/images/villa_yard-04-sm.webp",
+      "original": "MVIMG_20261025_163050.jpg"
+    },
+    {
+      "src": "/images/villa_yard-05.webp",
+      "thumb": "/images/villa_yard-05-sm.webp",
+      "original": "MVIMG_20261025_163058.jpg"
+    },
+    {
+      "src": "/images/villa_yard-06.webp",
+      "thumb": "/images/villa_yard-06-sm.webp",
+      "original": "MVIMG_20261025_163115.jpg"
+    },
+    {
+      "src": "/images/villa_yard-07.webp",
+      "thumb": "/images/villa_yard-07-sm.webp",
+      "original": "MVIMG_20261025_164023.jpg"
+    },
+    {
+      "src": "/images/villa_yard-08.webp",
+      "thumb": "/images/villa_yard-08-sm.webp",
+      "original": "MVIMG_20261025_164032.jpg"
+    },
+    {
+      "src": "/images/villa_yard-09.webp",
+      "thumb": "/images/villa_yard-09-sm.webp",
+      "original": "MVIMG_20261025_164137.jpg"
+    },
+    {
+      "src": "/images/villa_yard-10.webp",
+      "thumb": "/images/villa_yard-10-sm.webp",
+      "original": "MVIMG_20261025_164206.jpg"
+    },
+    {
+      "src": "/images/villa_yard-11.webp",
+      "thumb": "/images/villa_yard-11-sm.webp",
+      "original": "MVIMG_20261025_164733.jpg"
+    },
+    {
+      "src": "/images/villa_yard-12.webp",
+      "thumb": "/images/villa_yard-12-sm.webp",
+      "original": "MVIMG_20261025_164800.jpg"
+    },
+    {
+      "src": "/images/villa_yard-13.webp",
+      "thumb": "/images/villa_yard-13-sm.webp",
+      "original": "MVIMG_20261025_170407.jpg"
+    }
+  ]
+}
